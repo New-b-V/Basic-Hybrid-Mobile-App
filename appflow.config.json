@@ -1,0 +1,9 @@
+{
+    "apps":
+    [
+        {
+            "appId":"41c93a22",
+            "root": "photo-gallery"
+        }
+    ]
+}
